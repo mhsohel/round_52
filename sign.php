@@ -1,2 +1,2 @@
 <?php
-echo "<h1>My name is Not Khan</h1>";
+echo "<h1>My name is NotKhan</h1>";
